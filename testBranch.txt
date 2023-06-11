@@ -1,1 +1,1 @@
-newBranch hello world second
+newBranch testNewBranch.txt
