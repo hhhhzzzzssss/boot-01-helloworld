@@ -1,1 +1,2 @@
-master Branch 1
+new Branch 
+test Branch newBranch
